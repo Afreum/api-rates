@@ -4,6 +4,8 @@ Afreum provides a public universal exchange rate API that can be called remotely
 
 # 1. Fiat Rates Query URL: https://afreum.com/ice/sites/app/api/rates.cfm
 
+Use this endpoint to query the exchange rate of any token or crypto supported by the Afreum Ecosystem in any fiat or supported external crypto.
+
 **URL Query Parameters:**
 
 * **fiat_rates_api_key:** Get a free or paid API key from **https://exchangerate-api.com/**
@@ -22,6 +24,8 @@ Afreum provides a public universal exchange rate API that can be called remotely
 
 
 # 2. Universal Rates Query URL: https://afreum.com/ice/sites/app/api/rates_tokens.cfm
+
+Use this endpoint to query the exchange rate of any token or crypto supported by the Afreum Ecosystem in any other token or crypto supported by the Afreum ecosystem.
 
 **URL Query Parameters:**
 
