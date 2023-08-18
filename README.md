@@ -1,6 +1,6 @@
 # API QUERY LINKS: EXCHANGE RATES
 
-Afreum provides a public exchange rate API that can be called remotely by developers building on top of the Afreum Ecosystem. This API is also used by the Afreum developer team in the upcoming Afreum 2.0 ecosystem upgrade. Developers who wish to build apps for the Afreum Ecosystem should use these API end points in production, rather than any of the Javascript scripts (used mainly for redundancy) provided that perform the same functions. The endpoints are as follows:
+Afreum provides a public exchange rate API that can be called remotely by developers building on top of the Afreum Ecosystem. This API is also used by the Afreum developer team in the upcoming Afreum 2.0 ecosystem upgrade. Developers who wish to build apps for the Afreum Ecosystem can use these API end points in production, by requesting an ACCESS KEY from Afreum, rather than any of the Javascript scripts (used mainly for redundancy) provided that perform the same functions. The endpoints are as follows:
 
 # 1. Universal Rates Query URL: https://afreum.com/ice/sites/app/api/rates.cfm
 
